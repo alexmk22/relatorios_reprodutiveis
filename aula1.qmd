@@ -3,6 +3,8 @@ title: "Aula 1"
 author: "Alex"
 format: html
 editor: visual
+# embed-resources: true
+  # faz com que todo o conteúdo fique em um arquivo só. Muito pesado
 ---
 
 ## Quarto
